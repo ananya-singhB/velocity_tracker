@@ -44,3 +44,6 @@ var isHappy = function(n) {
     }
     return n === 1;
 };
+
+// Time Complexity: O(log n) because each iteration of digitsSquareSum takes O(log n)
+// Space Complexity: O(log n) due to the Set.
