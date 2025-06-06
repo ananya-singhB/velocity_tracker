@@ -52,7 +52,7 @@ var hasCycle = function(head) {
 // Time Complexity:O(n)
 // Space Complexity:O(1)
 
-// Alternative Approach: Using a HashSet
+// Using a HashSet
 var hasCycle = function(head) {
     let visited = new Set();
 
