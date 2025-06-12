@@ -13,7 +13,7 @@
 // flowerbed[i] is 0 or 1.
 // There are no two adjacent flowers in flowerbed.
 // 0 <= n <= flowerbed.length
-
+// Solution
 /**
  * @param {number[]} flowerbed
  * @param {number} n
