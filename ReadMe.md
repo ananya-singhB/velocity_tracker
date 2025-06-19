@@ -1,1 +1,1 @@
-To track the velocity and progress of learnings from the basics.
+To track the velocity and progress of learning the concepts and practice from the basics.
