@@ -6,6 +6,7 @@ Two most common algorithms used:
 
 **Binary Search** : It is used for a sorted array. It mainly compares the array's middle element first and if the middle element is same as input, then it returns. Otherwise it searches in either left half or right half based on comparison result (Whether the mid element is smaller or greater). This algorithm is faster than linear search and takes O(Log n) time.
 
+
 **Linear Search Algorithm**
 
 **Applications:** Unsorted Lists, Small Data Sets, Searching Linked Lists.
